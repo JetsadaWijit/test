@@ -1,0 +1,6 @@
+/*
+    GitHub: https://github.com/JetsadaWijit/test
+*/
+rootProject.name = 'jetsadawijit-test'
+
+include('app')
